@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='object_detection',
+    name='objectdetection',
     version='0.0.1',
     packages=find_packages(),
     url='https://github.com/brandonschabell/models/tree/master/research/object_detection',
